@@ -68,26 +68,6 @@ count = [0,1,2,3,4]
 finalWords = [i for i in finalWords if i != []]
 completedWords = finalWords[0]
 
-"""
-# if finalWords[0] != []:
-#     completedWords = finalWords[0]
-#     print("5 match")
-# elif finalWords[1] != []:
-#     completedWords = finalWords[1]
-#     print("4 match")
-# elif finalWords[2] != []:
-#     completedWords = finalWords[2]
-#     print("3 match")
-# elif finalWords[3] != []:
-#     completedWords = finalWords[3]
-#     print("2 match")
-# elif finalWords[4] != []:
-#     completedWords = finalWords[4]
-#     print("1 match")
-# else:
-    # print("0 match")
-"""
-
 endingWords = []
 
 
